@@ -1,0 +1,29 @@
+.picOne {
+    background-image: url("../img/Tokyo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.picTwo {
+    background-image: url("../img/Italy.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.picThree {
+    background-image: url("../img/Hawaii2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.picFour {
+    background-image: url("../img/Munich.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.picFive {
+    background-image: url("../img/Paris.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
